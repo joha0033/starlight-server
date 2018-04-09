@@ -1,0 +1,18 @@
+{
+  "name": "starlight_challenge",
+  "version": "1.0.0",
+  "description": "starlight_challenege server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "challenge"
+  ],
+  "author": "joha0033@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
