@@ -15,6 +15,7 @@
   "author": "joha0033@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.16.3",
     "nodemon": "^1.17.3"
   }
