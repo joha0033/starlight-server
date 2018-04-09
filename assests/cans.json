@@ -102,11 +102,7 @@
   "id": 2306,
   "name": "0003",
   "serial": "58007",
-<<<<<<< HEAD
   "size": "8",
-=======
-  "size": "9",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -156,11 +152,7 @@
   "id": 2307,
   "name": "0004",
   "serial": "58011",
-<<<<<<< HEAD
   "size": "7",
-=======
-  "size": "8",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -210,11 +202,7 @@
   "id": 2309,
   "name": "0006",
   "serial": "58002",
-<<<<<<< HEAD
   "size": "6",
-=======
-  "size": "7",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -264,11 +252,7 @@
   "id": 2310,
   "name": "0007",
   "serial": "58001",
-<<<<<<< HEAD
   "size": "4",
-=======
-  "size": "6",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -418,11 +402,7 @@
   "id": 2313,
   "name": "0010",
   "serial": "58005",
-<<<<<<< HEAD
   "size": "9",
-=======
-  "size": "6",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -472,11 +452,7 @@
   "id": 2315,
   "name": "0012",
   "serial": "58012",
-<<<<<<< HEAD
   "size": "9",
-=======
-  "size": "7",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -526,11 +502,7 @@
   "id": 2316,
   "name": "0013",
   "serial": "58013",
-<<<<<<< HEAD
   "size": "8",
-=======
-  "size": "9",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -680,11 +652,7 @@
   "id": 2319,
   "name": "0016",
   "serial": "58016",
-<<<<<<< HEAD
   "size": "8",
-=======
-  "size": "9",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -734,11 +702,7 @@
   "id": 2320,
   "name": "0017",
   "serial": "58017",
-<<<<<<< HEAD
   "size": "1",
-=======
-  "size": "8",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -788,11 +752,7 @@
   "id": 2321,
   "name": "0018",
   "serial": "58018",
-<<<<<<< HEAD
   "size": "2",
-=======
-  "size": "4",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -842,11 +802,7 @@
   "id": 2322,
   "name": "0019",
   "serial": "58019",
-<<<<<<< HEAD
   "size": "3",
-=======
-  "size": "7",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -896,11 +852,7 @@
   "id": 2323,
   "name": "0020",
   "serial": "58020",
-<<<<<<< HEAD
   "size": "4",
-=======
-  "size": "8",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -950,11 +902,7 @@
   "id": 2324,
   "name": "0021",
   "serial": "58021",
-<<<<<<< HEAD
   "size": "5",
-=======
-  "size": "8",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1004,11 +952,7 @@
   "id": 2327,
   "name": "0024",
   "serial": "58024",
-<<<<<<< HEAD
   "size": "6",
-=======
-  "size": "8",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1208,11 +1152,7 @@
   "id": 2331,
   "name": "0028",
   "serial": "58028",
-<<<<<<< HEAD
   "size": "7",
-=======
-  "size": "3",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1262,11 +1202,7 @@
   "id": 2332,
   "name": "0029",
   "serial": "58029",
-<<<<<<< HEAD
   "size": "3",
-=======
-  "size": "5",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1316,11 +1252,7 @@
   "id": 2333,
   "name": "0030",
   "serial": "58030",
-<<<<<<< HEAD
   "size": "4",
-=======
-  "size": "2",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1370,11 +1302,7 @@
   "id": 2334,
   "name": "0031",
   "serial": "58031",
-<<<<<<< HEAD
   "size": "9",
-=======
-  "size": "6",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1474,11 +1402,7 @@
   "id": 2336,
   "name": "0033",
   "serial": "58033",
-<<<<<<< HEAD
   "size": "11",
-=======
-  "size": "1",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1528,11 +1452,8 @@
   "id": 2337,
   "name": "0034",
   "serial": "58034",
-<<<<<<< HEAD
+
   "size": "9",
-=======
-  "size": "11",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
@@ -1632,11 +1553,7 @@
   "id": 2339,
   "name": "0036",
   "serial": "58036",
-<<<<<<< HEAD
   "size": "7",
-=======
-  "size": "8",
->>>>>>> fc39873668047bba195e930f3ed5c8f1760bc489
   "requiresMaintenance": 0,
   "outOfService": 0,
   "source": "Thesolution",
