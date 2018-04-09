@@ -2,19 +2,12 @@ const express = require('express')
 const cors = require('cors')
 const bodyParser = require('body-parser')
 const morgan = require('morgan')
-<<<<<<< HEAD
 
-=======
->>>>>>> dev
 const app = express()
 
 
 
-<<<<<<< HEAD
-=======
-app.use(cors())
-app.use(morgan('dev'));
->>>>>>> dev
+
 app.use(bodyParser.json())
 app.use(cors())
 app.use(morgan('dev'));
