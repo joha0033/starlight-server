@@ -4,6 +4,8 @@
   "description": "starlight_challenege server ",
   "main": "app.js",
   "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "dev": "NODE_ENV=development nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -13,6 +15,7 @@
   "author": "joha0033@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
   }
 }
